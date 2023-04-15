@@ -1,0 +1,15 @@
+{
+  "name": "atv3-ind",
+  "version": "1.0.0",
+  "description": "Atividade 3 de pw2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^3.12.6"
+  }
+}
